@@ -2669,7 +2669,7 @@ a.c-member_slug--mention, a.c-member_slug--mention:hover { background-color: #ff
 
 #channel_browser #channel_list_container:not(.keyboard_active).not_scrolling .channel_browser_row:hover, #channel_browser .channel_browser_row.highlighted { background: #000; border: 1px solid #545454; }
 
-#channel_browser .channel_browser_divider { background: transparent; color: #949494; }
+#channel_browser .channel_browser_divider { background: #545454; color: #949494; }
 
 #channel_browser .channel_browser_sort_container::after { color: #e6e6e6; }
 
