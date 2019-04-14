@@ -1721,7 +1721,7 @@ ts-thread .new_reply_indicator .blue_dot { color: #bf360c; }
 
 .unread_msgs_loading { background: #222; background-image: none; }
 
-#col_flex { background: transparent; }
+#col_flex { background: #222222; }
 
 #flex_contents { background: #222; }
 
